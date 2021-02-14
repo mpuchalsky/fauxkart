@@ -1,8 +1,8 @@
 name: "Max Puchalsky"
 description: "Max Puchalsky's Web Portal"
 
-url: 'https://mpuchalsky.github.io/fauxkart/' 
-baseurl: 'https://mpuchalsky.github.io/fauxkart/'
+url: 'https://mpuchalsky.github.io/fauxkart' 
+baseurl: 'https://mpuchalsky.github.io/fauxkart'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
