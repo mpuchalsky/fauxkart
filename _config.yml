@@ -1,8 +1,8 @@
-name: "Jekyll true minimal theme"
-description: "Lightweight theme"
+name: "Max Puchalsky"
+description: "Max Puchalsky's Web Portal"
 
 url: '' 
-baseurl: ''
+baseurl: 'https://mpuchalsky.github.io/fauxkart/'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
